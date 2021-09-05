@@ -2,7 +2,7 @@
  A simple calculator using HTML, CSS &amp; Javascript
  This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
  
- ![alt text](https://github.com/[Shrivishnu22]/[Simple-Calculator]/blob/[main]/Simple-Calculator.png?raw=true)
+ ![alt text](https://github.com/[Shrivishnu22]/[Simple-Calculator]/blob/[main]/Simple-Calculator.PNG?raw=true)
  
 ## Steps to execute this calculator:
 - Download the entire code 
